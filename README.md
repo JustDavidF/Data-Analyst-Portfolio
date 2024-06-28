@@ -1,8 +1,8 @@
 # Data-Analyst-Portfolio
 
-Using this as a general repository for the various Data Analytics projects I have done.
+Using this as a general repository for the various projects I have worked on.
 
-Things to cover: Excel, Python, R, SQL, Tableau.
+Languages covered: Python, R.
 
 ## To-Do List
 Datasets that would make good projects.
